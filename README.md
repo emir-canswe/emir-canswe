@@ -1,7 +1,6 @@
 <!-- Banner resmi -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joshdholtz/robot-animation/main/robot_dance.gif" alt="Robot Dance" width="300" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 
