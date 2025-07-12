@@ -2,6 +2,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
+![Emir's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=emir-canswe&theme=github-compact)
+
 
 
 <h1 align="center">Hi 👋, I'm Emir</h1>
@@ -81,6 +83,5 @@
 ---
 
 > _“Every line of code brings imagination closer to reality.”_ ✨
-> <p align="center">
-![Emir's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=emir-canswe&theme=github-compact)
+>
 
