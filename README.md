@@ -1,7 +1,7 @@
 <!-- Banner resmi -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Animation" width="300" />
+  <img src="https://media.giphy.com/media/3o6ZsUkLjIpkdeCjhy/giphy.gif" alt="Cool Coding Animation" width="350" />
 </p>
 
 
