@@ -1,8 +1,9 @@
 <!-- Banner resmi -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EnderCommunity/RoboticsImages/main/robot.gif" alt="Robot Animation" width="300" />
+  <img src="https://raw.githubusercontent.com/joshdholtz/robot-animation/main/robot_dance.gif" alt="Robot Dance" width="300" />
 </p>
+
 
 
 
