@@ -1,5 +1,5 @@
 
-https://media.istockphoto.com/id/1047259374/tr/foto%C4%9Fraf/programlama-kaynak-kodu-arka-plan.jpg?s=2048x2048&w=is&k=20&c=d1wLckIXm414NWy8OiHLULKs14rd4Cf9BImD__OTAOQ=
+https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg
 <h1 align="center">Hi 👋, I'm Emir</h1>
 <h3 align="center">A AI developer from Türkiye</h3>
 
