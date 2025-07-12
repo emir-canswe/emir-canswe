@@ -1,7 +1,6 @@
 <!-- Banner resmi -->
 
-![Emir's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=emir-canswe&theme=github-compact)
-
+<img src="https://raw.githubusercontent.com/ahmetozlu/animated-svg/main/loader.svg" width="100" />
 
 
 
