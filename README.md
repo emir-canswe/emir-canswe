@@ -1,7 +1,7 @@
 <!-- Banner resmi -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UtKiaHbZ6o5s45V4l5/giphy.gif" alt="Havalı Kod Yazma" width="350" />
+  <img src="https://raw.githubusercontent.com/EdjeElectronics/CircuitPython_ESP32-S2_Shell/master/docs/_static/screencast.gif" alt="Coding Animation" width="350" />
 </p>
 
 
