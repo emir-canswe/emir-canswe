@@ -1,7 +1,7 @@
 <!-- Banner resmi -->
 
 <p align="center">
-  <img src="https://github.com/emir-canswe/emir-canswe/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/images/banner.png" />
 </p>
 
 
