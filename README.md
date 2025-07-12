@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Emir</h1>
-<h3 align="center">An AI Developer & Software Engineering Student from Türkiye</h3>
+<h3 align="center">An AI Developer & Software Engineering Student from Turkey</h3>
 
 <p align="center">
   🚀 Passionate about AI, Computer Vision and Creative Tech Solutions  
