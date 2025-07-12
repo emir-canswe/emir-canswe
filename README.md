@@ -1,5 +1,8 @@
 <!-- Banner resmi -->
 
+<p align="center">
+  <img src="https://github.com/emir-canswe/emir-canswe/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 
