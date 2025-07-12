@@ -1,6 +1,6 @@
 <!-- Banner resmi -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://images.unsplash.com/photo-1518773553398-650c184e0bb3?auto=format&fit=crop&w=400&q=80" alt="Cool Robot" width="350" />
 </p>
 
 
