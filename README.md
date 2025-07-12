@@ -1,9 +1,8 @@
 <!-- Banner resmi -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsUkLjIpkdeCjhy/giphy.gif" alt="Cool Coding Animation" width="350" />
+  <img src="https://media.giphy.com/media/UtKiaHbZ6o5s45V4l5/giphy.gif" alt="Havalı Kod Yazma" width="350" />
 </p>
-
 
 
 
