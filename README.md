@@ -1,7 +1,5 @@
 <!-- Banner resmi -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
+
 
 
 
@@ -81,7 +79,9 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
 > _“Every line of code brings imagination closer to reality.”_ ✨
 >
 
