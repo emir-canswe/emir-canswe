@@ -81,3 +81,7 @@
 ---
 
 > _“Every line of code brings imagination closer to reality.”_ ✨
+> <p align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/images/banner.png" />
+</p>
+
