@@ -1,6 +1,6 @@
 <!-- Banner resmi -->
 <p align="center">
-  <img src="https://i.ibb.co/3FFMmmz/ai-banner-space.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 
