@@ -1,7 +1,7 @@
 <!-- Banner resmi -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4I0YtqxKqRBck/giphy.gif" alt="Cool Robot Animation" width="300" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Animation" width="300" />
 </p>
 
 
