@@ -44,10 +44,19 @@
 ### 📬 Contact Me
 
 <p align="left">
-  <a href="mailto:canemircan38@mail.com">📧 Email</a> • 
-  <a href="https://www.linkedin.com/in/emircan-can-4034662a1/" target="_blank">LinkedIn</a> • 
-  <a href="https://instagram.com/emir10_can" target="_blank">Instagram</a>
+  <a href="mailto:canemircan38@mail.com" style="text-decoration:none; margin-right: 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/24/732/732200.png" alt="Email" /> 📧 Email
+  </a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/emircan-can-4034662a1/" target="_blank" style="text-decoration:none; margin-right: 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" /> LinkedIn
+  </a>
+  <br><br>
+  <a href="https://instagram.com/emir10_can" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn-icons-png.flaticon.com/24/2111/2111463.png" alt="Instagram" /> Instagram
+  </a>
 </p>
+
 
 ---
 
