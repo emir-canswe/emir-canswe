@@ -1,8 +1,9 @@
 <!-- Banner resmi -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/emir-canswe/emir-canswe/main/animasyon.gif" alt="Animasyon" width="350" />
+  <img src="https://media.giphy.com/media/3o7aD4I0YtqxKqRBck/giphy.gif" alt="Cool Robot Animation" width="300" />
 </p>
+
 
 
 
