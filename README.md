@@ -3,13 +3,10 @@
   <img src="https://images.unsplash.com/photo-1518773553398-650c184e0bb3?auto=format&fit=crop&w=400&q=80" alt="Cool Robot" width="450" />
 </p>
 
-
-
-
 <h1 align="center">Hi 👋, I'm Emir</h1>
-<h3 align="center">An AI Developer & Software Engineering Student from Turkey</h3>
+<h3 align="center" style="font-weight: 500;">An AI Developer & Software Engineering Student from Turkey</h3>
 
-<p align="center">
+<p align="center" style="font-size: 18px; line-height: 1.5;">
   🚀 Passionate about AI, Computer Vision and Creative Tech Solutions  
   <br>
   🎓 3rd Year Software Engineering Student  
@@ -19,29 +16,39 @@
 
 ---
 
-### 💬 About Me
+<h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">💬 About Me</h2>
 
-- 🧑‍🎓 I’m currently studying **Software Engineering (3rd Year)**  
-- 💡 My interests:  
-  - Python, Java, R  
-  - Artificial Intelligence & Computer Vision  
-  - Web Development (HTML, CSS, JS)  
-  - Database Systems  
-- 🎯 Goal:  
-  > To develop smart, helpful, and inclusive technologies.  
-  > Especially focusing on solutions for people with disabilities.  
+<ul>
+  <li>🧑‍🎓 I’m currently studying <strong>Software Engineering (3rd Year)</strong></li>
+  <li>💡 My interests:
+    <ul>
+      <li>Python, Java, R</li>
+      <li>Artificial Intelligence & Computer Vision</li>
+      <li>Web Development (HTML, CSS, JS)</li>
+      <li>Database Systems</li>
+    </ul>
+  </li>
+  <li>🎯 Goal:
+    <blockquote style="font-style: italic; color: #555;">
+      To develop smart, helpful, and inclusive technologies.<br>
+      Especially focusing on solutions for people with disabilities.
+    </blockquote>
+  </li>
+</ul>
 
 ---
 
-### 🛠️ Projects I'm Working On
+<h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">🛠️ Projects I'm Working On</h2>
 
-- 💻 A **face recognition-based diary** application  
-- 🎙️ A **personal voice assistant**  
-- 🧠 A **computer vision-based communication system** for people with disabilities (**Project HİSSET**)  
+<ul>
+  <li>💻 A <strong>face recognition-based diary</strong> application</li>
+  <li>🎙️ A <strong>personal voice assistant</strong></li>
+  <li>🧠 A <strong>computer vision-based communication system</strong> for people with disabilities (<strong>Project HİSSET</strong>)</li>
+</ul>
 
 ---
 
-### 📬 Contact Me
+<h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">📬 Contact Me</h2>
 
 <p align="left">
   <a href="mailto:canemircan38@mail.com" style="text-decoration:none; margin-right: 20px;">
@@ -56,7 +63,10 @@
     <img src="https://cdn-icons-png.flaticon.com/24/2111/2111463.png" alt="Instagram" /> Instagram
   </a>
 </p>
-### 🧰 Languages and Tools
+
+---
+
+<h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">🧰 Languages and Tools</h2>
 
 <p align="left">
   <a href="https://www.python.org">
@@ -88,8 +98,9 @@
   </a>
 </p>
 
+---
 
-### 📊 GitHub Stats
+<h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">📊 GitHub Stats</h2>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emir-canswe&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
@@ -104,9 +115,11 @@
 </p>
 
 ---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
-> “Every line of code brings imagination closer to reality.” ✨
->
 
+<blockquote align="center" style="font-style: italic; color: #555;">
+  “Every line of code brings imagination closer to reality.” ✨
+</blockquote>
