@@ -82,6 +82,5 @@
 
 > _“Every line of code brings imagination closer to reality.”_ ✨
 > <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/images/banner.png" />
-</p>
+![Emir's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=emir-canswe&theme=github-compact)
 
