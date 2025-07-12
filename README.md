@@ -1,7 +1,7 @@
 <!-- Banner resmi -->
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/44798/screenshots/2873613/media/38476c6af4850dfaa682c0d648a0de11.gif" alt="Coding Animation" width="350" />
+  <img src="https://raw.githubusercontent.com/emir-canswe/emir-canswe/main/animasyon.gif" alt="Animasyon" width="350" />
 </p>
 
 
