@@ -1,8 +1,7 @@
 <!-- Banner resmi -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=emir-canswe&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
-![Emir's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=emir-canswe&theme=github-compact)
 
 
 
