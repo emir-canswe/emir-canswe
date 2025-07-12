@@ -1,7 +1,8 @@
 <!-- Banner resmi -->
 <p align="center">
-  <img src="https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Emir</h1>
 <h3 align="center">An AI Developer & Software Engineering Student from Türkiye</h3>
