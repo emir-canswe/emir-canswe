@@ -1,8 +1,9 @@
 <!-- Banner resmi -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/images/banner.png" />
+  <img src="https://media.giphy.com/media/your-project-demo.gif" alt="Project Demo" width="60%" />
 </p>
+
 
 
 
