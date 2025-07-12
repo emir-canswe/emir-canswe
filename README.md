@@ -1,7 +1,8 @@
 <!-- Banner resmi -->
 
-<img src="https://raw.githubusercontent.com/ahmetozlu/animated-svg/main/loader.svg" width="100" />
-
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD4I0YtqxKqRBck/giphy.gif" alt="Cool Robot Animation" width="300" />
+</p>
 
 
 
