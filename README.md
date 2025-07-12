@@ -1,19 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23114
-Fork on GitHub
-7773
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
+https://media.istockphoto.com/id/1047259374/tr/foto%C4%9Fraf/programlama-kaynak-kodu-arka-plan.jpg?s=2048x2048&w=is&k=20&c=d1wLckIXm414NWy8OiHLULKs14rd4Cf9BImD__OTAOQ=
 <h1 align="center">Hi 👋, I'm Emir</h1>
 <h3 align="center">A AI developer from Türkiye</h3>
 
@@ -35,28 +21,3 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emir-canswe&show_icons=true&locale=en" alt="emir-canswe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emir-canswe&" alt="emir-canswe" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
