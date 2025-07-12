@@ -1,8 +1,7 @@
 <!-- Banner resmi -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/your-project-demo.gif" alt="Project Demo" width="60%" />
-</p>
+![Emir's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=emir-canswe&theme=github-compact)
+
 
 
 
