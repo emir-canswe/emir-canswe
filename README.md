@@ -16,6 +16,17 @@
 
 ---
 
+<h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">👤 Profile Overview</h2>
+
+<ul>
+  <li>📖 <strong>Currently Learning:</strong> Advanced Playwright + Test Automation</li>
+  <li>📚 <strong>Studying:</strong> Database Systems & Data Structures in Java</li>
+  <li>🧪 <strong>Developing:</strong> HARMONY.AI – Gesture-based communication system</li>
+  <li>📹 <strong>Working on:</strong> YouTube project demo videos</li>
+</ul>
+
+---
+
 <h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">💬 About Me</h2>
 
 <ul>
@@ -41,9 +52,10 @@
 <h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">🛠️ Projects I'm Working On</h2>
 
 <ul>
-  <li>💻 A <strong>face recognition-based diary</strong> application</li>
-  <li>🎙️ A <strong>personal voice assistant</strong></li>
-  <li>🧠 A <strong>computer vision-based communication system</strong> for people with disabilities (<strong>Project HİSSET</strong>)</li>
+  <li>🧑‍💻 <strong>Face Recognition Diary</strong> – Private diary secured by facial recognition</li>
+  <li>🧠 <strong>Project HİSSET</strong> – CV-based system for people with disabilities</li>
+  <li>🎙️ <strong>ELION Voice Assistant</strong> – Personal voice assistant with smart commands</li>
+  <li>🧪 <strong>HARMONY.AI</strong> – Gesture-based communication system (WIP)</li>
 </ul>
 
 ---
@@ -65,6 +77,7 @@
 </p>
 
 ---
+
 <h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">🧰 Languages and Tools</h2>
 
 <p align="left">
@@ -103,7 +116,6 @@
   </a>
 </p>
 
-
 ---
 
 <h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">📊 GitHub Stats</h2>
@@ -128,4 +140,4 @@
 
 <blockquote align="center" style="font-style: italic; color: #555;">
   “Every line of code brings imagination closer to reality.” ✨
-</blockquote> 
+</blockquote>
