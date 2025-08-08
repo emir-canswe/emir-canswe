@@ -48,47 +48,6 @@
 
 ---
 
-<h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">📌 Pinned Projects</h2>
-
-<ul>
-  <li><a href="https://github.com/emir-canswe/face-diary-app"><strong>🧑‍💻 Face Recognition Diary</strong></a> – Private diary secured by facial recognition</li>
-  <li><a href="https://github.com/emir-canswe/hisset-project"><strong>🧠 Project HİSSET</strong></a> – CV-based system for people with disabilities</li>
-  <li><a href="https://github.com/emir-canswe/voice-assistant"><strong>🎙️ ELION Voice Assistant</strong></a> – Personal voice assistant with smart commands</li>
-</ul>
-
----
-
-<h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">⌛ What I'm Doing Now</h2>
-
-<ul>
-  <li>📖 Learning advanced Playwright + Test Automation</li>
-  <li>📚 Studying Database Systems & Data Structures in Java</li>
-  <li>🧪 Developing HARMONY.AI – a gesture-based communication system</li>
-  <li>📹 Working on YouTube project demos</li>
-</ul>
-
----
-
-<h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">🌟 Fun Facts About Me</h2>
-
-<ul>
-  <li>🤖 I started AI development using OpenCV and fell in love with it</li>
-  <li>🎮 I enjoy building small Python games in my free time</li>
-  <li>🎧 Coding while listening to Arctic Monkeys and Emre Aydın is my jam</li>
-</ul>
-
----
-
-<h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">💼 Currently Learning</h2>
-
-<ul>
-  <li>🧠 Machine Learning with scikit-learn & TensorFlow</li>
-  <li>🕹️ Pygame + Game Dev Basics</li>
-  <li>🌐 R Shiny for data dashboards</li>
-</ul>
-
----
-
 <h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">📬 Contact Me</h2>
 
 <p align="left">
@@ -106,7 +65,6 @@
 </p>
 
 ---
-
 <h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">🧰 Languages and Tools</h2>
 
 <p align="left">
@@ -145,6 +103,7 @@
   </a>
 </p>
 
+
 ---
 
 <h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">📊 GitHub Stats</h2>
@@ -163,26 +122,10 @@
 
 ---
 
-<h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emir-canswe&theme=onedark" />
-</p>
-
----
-
-<h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">👁️ Profile Views</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emir-canswe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 <blockquote align="center" style="font-style: italic; color: #555;">
   “Every line of code brings imagination closer to reality.” ✨
-</blockquote>
+</blockquote> 
