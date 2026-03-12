@@ -1,143 +1,89 @@
-<!-- Banner resmi -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1518773553398-650c184e0bb3?auto=format&fit=crop&w=400&q=80" alt="Cool Robot" width="450" />
-</p>
+<div align="center">
+<!-- Animated typing header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Emir+%F0%9F%91%8B;AI+Developer+%26+CV+Engineer;Software+Engineering+Student;Building+inclusive+tech+%F0%9F%A7%A0" alt="Typing SVG" />
+</a>
+<br/>
+<!-- Social badges -->
+<a href="https://www.linkedin.com/in/emircan-can-4034662a1/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/emir10_can">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:canemircan38@mail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<br/><br/>
+<!-- Profile views counter -->
+<img src="https://komarev.com/ghpvc/?username=emir-canswe&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS"/>
+</div>
 
-<h1 align="center">Hi 👋, I'm Emir</h1>
-<h3 align="center" style="font-weight: 500;">An AI Developer & Software Engineering Student from Turkey</h3>
+🧠 About Me
+pythonclass Emircan:
+    name       = "Emircan Can"
+    location   = "Turkey 🇹🇷"
+    education  = "Software Engineering – 3rd Year"
+    passion    = ["AI", "Computer Vision", "Inclusive Tech"]
+    
+    currently  = {
+        "learning" : "Advanced Playwright + Test Automation",
+        "studying" : "Database Systems & Data Structures in Java",
+        "building" : "HARMONY.AI – Gesture-based communication system",
+        "creating" : "YouTube project demo videos"
+    }
+    
+    goal = "Build smart, helpful tech — especially for people with disabilities 💙"
 
-<p align="center" style="font-size: 18px; line-height: 1.5;">
-  🚀 Passionate about AI, Computer Vision and Creative Tech Solutions  
-  <br>
-  🎓 3rd Year Software Engineering Student  
-  <br>
-  🧠 Always learning, building, improving!
-</p>
+🚀 Projects
+ProjectDescriptionStatus🧑‍💻 Face Recognition DiaryPrivate diary secured by facial recognition✅ Active🧠 Project HİSSETCV-based accessibility system for disabled users🔨 Building🎙️ ELION Voice AssistantPersonal voice assistant with smart commands✅ Active🧪 HARMONY.AIGesture-based communication system🔬 WIP
 
----
+🛠️ Tech Stack
+<div align="center">
+Languages
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Web & Tools
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+AI / CV Libraries
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
 
-<h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">👤 Profile Overview</h2>
+📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emir-canswe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emir-canswe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emir-canswe&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak" />
+</div>
 
-<ul>
-  <li>📖 <strong>Currently Learning:</strong> Advanced Playwright + Test Automation</li>
-  <li>📚 <strong>Studying:</strong> Database Systems & Data Structures in Java</li>
-  <li>🧪 <strong>Developing:</strong> HARMONY.AI – Gesture-based communication system</li>
-  <li>📹 <strong>Working on:</strong> YouTube project demo videos</li>
-</ul>
+🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
 
----
+🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emir-canswe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
 
-<h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">💬 About Me</h2>
-
-<ul>
-  <li>🧑‍🎓 I’m currently studying <strong>Software Engineering (3rd Year)</strong></li>
-  <li>💡 My interests:
-    <ul>
-      <li>Python, Java, R</li>
-      <li>Artificial Intelligence & Computer Vision</li>
-      <li>Web Development (HTML, CSS, JS)</li>
-      <li>Database Systems</li>
-    </ul>
-  </li>
-  <li>🎯 Goal:
-    <blockquote style="font-style: italic; color: #555;">
-      To develop smart, helpful, and inclusive technologies.<br>
-      Especially focusing on solutions for people with disabilities.
-    </blockquote>
-  </li>
-</ul>
-
----
-
-<h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">🛠️ Projects I'm Working On</h2>
-
-<ul>
-  <li>🧑‍💻 <strong>Face Recognition Diary</strong> – Private diary secured by facial recognition</li>
-  <li>🧠 <strong>Project HİSSET</strong> – CV-based system for people with disabilities</li>
-  <li>🎙️ <strong>ELION Voice Assistant</strong> – Personal voice assistant with smart commands</li>
-  <li>🧪 <strong>HARMONY.AI</strong> – Gesture-based communication system (WIP)</li>
-</ul>
-
----
-
-<h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">📬 Contact Me</h2>
-
-<p align="left">
-  <a href="mailto:canemircan38@mail.com" style="text-decoration:none; margin-right: 20px;">
-    <img src="https://cdn-icons-png.flaticon.com/24/732/732200.png" alt="Email" /> 📧 Email
-  </a>
-  <br><br>
-  <a href="https://www.linkedin.com/in/emircan-can-4034662a1/" target="_blank" style="text-decoration:none; margin-right: 20px;">
-    <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" /> LinkedIn
-  </a>
-  <br><br>
-  <a href="https://instagram.com/emir10_can" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/24/2111/2111463.png" alt="Instagram" /> Instagram
-  </a>
-</p>
-
----
-
-<h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">🧰 Languages and Tools</h2>
-
-<p align="left">
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://playwright.dev/">
-    <img src="https://seeklogo.com/images/P/playwright-logo-28D5C8F063-seeklogo.com.png" alt="playwright" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<h2 style="border-bottom: 2px solid #ddd; padding-bottom: 6px;">📊 GitHub Stats</h2>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emir-canswe&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emir-canswe&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emir-canswe&" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
-
-<blockquote align="center" style="font-style: italic; color: #555;">
-  “Every line of code brings imagination closer to reality.” ✨
-</blockquote>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=80&section=footer&fontSize=20" width="100%"/>
+<i>"Every line of code brings imagination closer to reality." ✨</i>
+</div>
